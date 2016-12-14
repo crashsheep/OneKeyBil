@@ -1,0 +1,3 @@
+# OneKeyBil
+这是一个用struts2和hibernate，前段用JQuery EasyUI构建的项目
+本人的第一个完全自主编写的工程
